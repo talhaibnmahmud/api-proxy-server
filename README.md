@@ -10,6 +10,8 @@ This example uses the [OpenWeather API](https://openweathermap.org/api) but the 
 
 ## Usage
 
+---
+
 ### Install Dependencies
 
 ```back
@@ -17,6 +19,8 @@ npm install
 ```
 
 ## Development
+
+---
 
 ### Run the development server
 
@@ -32,6 +36,8 @@ npm run watch-css
 
 ## Build
 
+---
+
 ### Build JS bundle from TS
 
 ```bash
@@ -45,6 +51,8 @@ npm run build-css
 ```
 
 ## Add API info
+
+---
 
 Rename **.env.example** to **.env** and edit the values
 
